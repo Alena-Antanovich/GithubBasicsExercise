@@ -1,3 +1,8 @@
+FOODS:
 Pizza Caprichoza
 Pasta Bologneze
 Borscht
+MOVIES:
+The Shindler's list
+American history X
+Harry Potter all parts
